@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progii", "Progii.csproj", "{73C74FAB-6264-4632-B17C-BB65C7A55A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progii.Security", "..\Progii.Security\Progii.Security.csproj", "{D899373A-25EA-4EA6-9BA2-CD30142A3630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C74FAB-6264-4632-B17C-BB65C7A55A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C74FAB-6264-4632-B17C-BB65C7A55A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C74FAB-6264-4632-B17C-BB65C7A55A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C74FAB-6264-4632-B17C-BB65C7A55A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D899373A-25EA-4EA6-9BA2-CD30142A3630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D899373A-25EA-4EA6-9BA2-CD30142A3630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D899373A-25EA-4EA6-9BA2-CD30142A3630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D899373A-25EA-4EA6-9BA2-CD30142A3630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96C36B2-0795-4BF7-B363-7EDDD5AB2239}
+	EndGlobalSection
+EndGlobal
